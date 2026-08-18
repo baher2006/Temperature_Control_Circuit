@@ -2,6 +2,8 @@
 
 A temperature control circuit designed and simulated using NI Multisim.
 
+![Temperature Control Circuit](temperature%20control%20circuit.png)
+
 ## Project Overview
 
 This project demonstrates a simple temperature-controlled system that detects changes in temperature using an NTC thermistor and controls an output accordingly.
